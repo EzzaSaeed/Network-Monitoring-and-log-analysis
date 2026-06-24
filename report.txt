@@ -1,0 +1,5 @@
+................NETWORK MONITORING REPORT....................
+total logs:4
+total alerts:1
+security alerts
+repeated failed login|high
