@@ -2,7 +2,7 @@
 
 A C++ based **Network Monitoring & Log Analysis System** built using **Object-Oriented Programming (OOP)** and the **Standard Template Library (STL)**. The system parses network log files, analyzes traffic behavior, detects suspicious activity, and generates structured security reports.
 
-> 📌 Developed as part of an internship task at **Teyzix Core**.
+
 
 ---
 
